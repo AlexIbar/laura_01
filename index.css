@@ -1,0 +1,12 @@
+.centrar{
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    font-size: 20px;
+}
+body{
+    background-image: url('https://image.freepik.com/vector-gratis/corazones-amor-fondo-romantico-dia-san-valentin_1017-22804.jpg');
+    background-attachment: fixed;
+    background-size: contain;
+    color: white;
+}
